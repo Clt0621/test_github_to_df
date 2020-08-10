@@ -1,0 +1,8 @@
+{
+	"name": "AmazonRedshiftTable1",
+	"properties": {
+		"annotations": [],
+		"type": "AmazonRedshiftTable",
+		"schema": []
+	}
+}
